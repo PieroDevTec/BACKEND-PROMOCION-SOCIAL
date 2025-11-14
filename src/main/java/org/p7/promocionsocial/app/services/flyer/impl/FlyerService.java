@@ -1,8 +1,8 @@
 package org.p7.promocionsocial.app.services.flyer.impl;
 
-import org.p7.promocionsocial.app.models.dto.Flyer;
-import org.p7.promocionsocial.app.models.dto.FlyerBase64;
-import org.p7.promocionsocial.app.models.responses.ResponseList;
+import org.p7.promocionsocial.app.models.Flyer;
+import org.p7.promocionsocial.app.models.FlyerBase64;
+import org.p7.promocionsocial.app.models.dto.response.ResponseList;
 import org.p7.promocionsocial.app.repositories.flyer.IFlyerRepositorie;
 import org.p7.promocionsocial.app.services.flyer.IFlyerService;
 import org.springframework.beans.factory.annotation.Autowired;

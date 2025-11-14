@@ -1,6 +1,6 @@
 package org.p7.promocionsocial.app.repositories.informesadjuntos;
 
-import org.p7.promocionsocial.app.models.dto.TipoAdjunto;
+import org.p7.promocionsocial.app.models.TipoAdjunto;
 
 import java.util.List;
 

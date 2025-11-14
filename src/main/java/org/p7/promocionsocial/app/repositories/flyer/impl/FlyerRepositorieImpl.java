@@ -1,6 +1,6 @@
 package org.p7.promocionsocial.app.repositories.flyer.impl;
 
-import org.p7.promocionsocial.app.models.dto.Flyer;
+import org.p7.promocionsocial.app.models.Flyer;
 import org.p7.promocionsocial.app.repositories.flyer.IFlyerRepositorie;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;

@@ -1,7 +1,7 @@
 package org.p7.promocionsocial.app.controllers.informeAdjuntos;
 
-import org.p7.promocionsocial.app.models.dto.TipoAdjunto;
-import org.p7.promocionsocial.app.models.responses.ResponseList;
+import org.p7.promocionsocial.app.models.TipoAdjunto;
+import org.p7.promocionsocial.app.models.dto.response.ResponseList;
 import org.p7.promocionsocial.app.services.informesadjuntos.IInfoAdjuService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,7 +1,4 @@
-package org.p7.promocionsocial.app.models.responses;
-
-import lombok.Getter;
-import lombok.Setter;
+package org.p7.promocionsocial.app.models.dto.response;
 
 
 public class Response {
